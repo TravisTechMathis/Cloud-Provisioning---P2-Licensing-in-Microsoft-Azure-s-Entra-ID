@@ -1,0 +1,1 @@
+# Cloud-Provisioning---P2-Licensing-in-Microsoft-Azure-s-Entra-ID
